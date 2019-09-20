@@ -31,6 +31,7 @@ import android.widget.TextView;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import com.google.ads.nativetemplates.R;
 import com.google.android.gms.ads.formats.MediaView;
 import com.google.android.gms.ads.formats.NativeAd.Image;
 import com.google.android.gms.ads.formats.UnifiedNativeAd;
